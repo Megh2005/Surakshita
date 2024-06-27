@@ -1,4 +1,6 @@
 #!/bin/bash
+echo "Welcome To Surakshita"
+sleep 2
 echo "Generate Your Secret Phrase"
 
 sleep 2
