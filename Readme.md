@@ -2,7 +2,7 @@
 ## :nazar_amulet: Overview
 **Surakshita is an OpenSSL script based password generator app, available as _surakshita.sh_ built with shell script.**
 
-## :card_file_box: Execution Guide
+## :atom: Execution Guide
 - **Step : 1**
 ```shell
 git clone https://github.com/Megh2005/Surakshita.git
