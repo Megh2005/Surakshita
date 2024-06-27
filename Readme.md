@@ -30,3 +30,6 @@ Enter Secret Phrase Length :
 
 > [!WARNING]
 > Some commands may not be same for all other linux distributions.
+
+## :clapper: Demo Video
+**Youtube : https://youtu.be/GiVnN_gTsuk?feature=shared**
