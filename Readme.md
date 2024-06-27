@@ -26,3 +26,6 @@ Enter Secret Phrase Length :
 
 > [!IMPORTANT]
 > User should use a linux syystem to execute these commands.
+
+> [!WARNING]
+> Some commands may not be same for all other linux distributions.
