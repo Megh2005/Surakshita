@@ -25,4 +25,4 @@ Enter Secret Phrase Length :
 ```
 
 > [!IMPORTANT]
-> Key information users need to know to achieve their goal.
+> User should use a linux syystem to execute these commands.
