@@ -1,8 +1,8 @@
 # :closed_lock_with_key: Suraksita : Password Generator
 ## :nazar_amulet: Overview
-**Surakshita is an OpenSSL script based password generator app, available as _surakshita.sh_ built with shell script.**
+**Surakshita is an OpenSSL script based password generator app, available as _surakshita.sh_ built with shell script. I  have used base64 model of encryption. You can use any other encryption model. But base64 is the best encryption method for passwords**
 
-## :atom: Execution Guide
+## :dependabot: Execution Guide
 - **Step : 1**
 ```shell
 git clone https://github.com/Megh2005/Surakshita.git
