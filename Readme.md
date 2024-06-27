@@ -23,6 +23,7 @@ Enter Secret Phrase Length :
 < Enter Your Desired Password Length >
 < Your Password Will Be Generated Here >
 ```
+## :shipit: Note
 
 > [!IMPORTANT]
 > User should use a linux syystem to execute these commands.
